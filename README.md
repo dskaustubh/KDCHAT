@@ -1,2 +1,2 @@
 # KDCHAT
-A simple way to text your friends
+A simple way to text your friends.
